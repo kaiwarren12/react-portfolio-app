@@ -1,10 +1,9 @@
 let resumeData = {
   imagebaseurl: "https://github.com/kaiwarren12",
   name: "Kai Warren",
-  role: "Full stack develop and Marketing Specialist",
+  role: "Full Stack Developer and Marketing Development Rep",
   linkedinId: "kaiwarren23@yahoo.com",
-  roleDescription:
-    " My name is Kai Warren, I'm a business graduate from Western Washington and aspiring full stack web developer! I have a passion for video games and grew up playing basketball.",
+  roleDescription: " ",
   socialLinks: [
     {
       name: "linkedin",
@@ -18,24 +17,31 @@ let resumeData = {
     },
   ],
   aboutme:
-    "My name is Kai Warren, I'm a business graduate from Western Washington and aspiring full stack web developer! I have a passion for video games and grew up playing basketball.",
+    "My name is Kai Warren, I'm a business graduate from Western Washington University and aspiring full stack developer! I have a passion for video games and grew up playing basketball.",
   address: "Washington",
   website: "https://github.com/kaiwarren12",
   education: [
     {
       UniversityName: "Western Washington University",
-      specialization: "Marketing",
+      specialization: "Business Administration - Marketing Concentration",
       MonthOfPassing: "Dec",
       YearOfPassing: "2020",
     },
     {
       UniversityName: "University of Washington",
-      specialization: "Full stack developer",
+      specialization: "Full Stack Developer",
       MonthOfPassing: "Febuary",
       YearOfPassing: "2021",
     },
   ],
   work: [
+    {
+      CompanyName: "DocuSign",
+      specialization: "Market Development Rep",
+      MonthOfLeaving: "Present",
+      YearOfLeaving: "Present",
+      Achievements: "Cold calling, lead generation",
+    },
     {
       CompanyName: "Filter",
       specialization: "Sales Development Rep",
